@@ -14,7 +14,7 @@ require (
 	github.com/jackc/puddle/v2 v2.0.0-beta.1
 	github.com/miekg/dns v1.1.50
 	github.com/oschwald/maxminddb-golang v1.10.0
-	github.com/safing/portbase v0.15.1
+	github.com/safing/portbase v0.15.2
 	github.com/safing/spn v0.5.0
 	github.com/shirou/gopsutil v3.21.11+incompatible
 	github.com/spf13/cobra v1.5.0
